@@ -1,7 +1,5 @@
 body{
-	background-image: url("images/Bg.jpg");
-	background-repeat: no-repeat;
-
+	background-image: url("https://cdn.shopify.com/s/files/1/3009/9434/products/AMICI_CARAMIA_FEB_2018-235_1200x1200.jpg?v=1518860172");
 	/* background-repeat: no-repeat; */
 }
 
@@ -80,11 +78,11 @@ body{
   #add_toppings{
 	/* padding-left:30px; */
 	width:200px;
-	height:180px;
+	height:100px;
 	border: none;
 	background-color:#e2062c;
 	color:black;
-	font-size: 25px;
+	font-size: 15px;
 	font-family: cursive;
   }
 
@@ -94,7 +92,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color: #fff;
+	color: #ffffff;
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -131,11 +129,4 @@ ol.menulist>li
 .card img{
 	width:100px;
 	height: 80px;
-}
-#show_menu{
-	margin-top: 50px;
-	background-color: #f5c71a;
-	font-size: 25px;
-	font-variant: small-caps;
-	font-weight: bold;
 }
